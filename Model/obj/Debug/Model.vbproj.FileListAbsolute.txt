@@ -1,0 +1,18 @@
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Model\bin\Debug\Model.dll.config
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Model\bin\Debug\Model.dll
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Model\bin\Debug\Model.pdb
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Model\bin\Debug\Model.xml
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Model\obj\Debug\Model.Resources.resources
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Model\obj\Debug\Model.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Model\obj\Debug\Model.dll
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Model\obj\Debug\Model.xml
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Model\obj\Debug\Model.pdb
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Model\bin\Debug\Model.dll.config
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Model\bin\Debug\Model.dll
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Model\bin\Debug\Model.pdb
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Model\bin\Debug\Model.xml
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Model\obj\Debug\Model.Resources.resources
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Model\obj\Debug\Model.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Model\obj\Debug\Model.dll
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Model\obj\Debug\Model.xml
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Model\obj\Debug\Model.pdb

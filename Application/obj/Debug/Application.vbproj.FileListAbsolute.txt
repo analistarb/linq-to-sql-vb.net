@@ -1,0 +1,36 @@
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Application\obj\Debug\Application.vbprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Application\obj\Debug\Application.Resources.resources
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Application\obj\Debug\Application.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Application\bin\Application.dll
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Application\bin\Application.pdb
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Application\bin\Application.xml
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Application\bin\Model.dll
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Application\bin\Model.pdb
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Application\bin\Model.xml
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Application\obj\Debug\Application.dll
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Application\obj\Debug\Application.xml
+C:\Users\Workstation\Desktop\SchoolSystem\SchoolSystem\Application\obj\Debug\Application.pdb
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Application\obj\Debug\Application.vbprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Application\obj\Debug\Application.Resources.resources
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Application\obj\Debug\Application.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Application\bin\Application.dll
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Application\bin\Application.pdb
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Application\bin\Application.xml
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Application\bin\Model.dll
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Application\bin\Model.pdb
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Application\bin\Model.xml
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Application\obj\Debug\Application.dll
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Application\obj\Debug\Application.xml
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL\02) VB.Net\SchoolSystem\Application\obj\Debug\Application.pdb
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\02) VB.Net\SchoolSystem\Application\bin\Application.dll
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\02) VB.Net\SchoolSystem\Application\bin\Application.pdb
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\02) VB.Net\SchoolSystem\Application\bin\Application.xml
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\02) VB.Net\SchoolSystem\Application\bin\Model.dll
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\02) VB.Net\SchoolSystem\Application\bin\Model.pdb
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\02) VB.Net\SchoolSystem\Application\bin\Model.xml
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\02) VB.Net\SchoolSystem\Application\obj\Debug\Application.vbprojResolveAssemblyReference.cache
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\02) VB.Net\SchoolSystem\Application\obj\Debug\Application.Resources.resources
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\02) VB.Net\SchoolSystem\Application\obj\Debug\Application.vbproj.GenerateResource.Cache
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\02) VB.Net\SchoolSystem\Application\obj\Debug\Application.dll
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\02) VB.Net\SchoolSystem\Application\obj\Debug\Application.xml
+C:\Users\Workstation\Desktop\05) Seleção!\01) DotNet\05) Linq to SQL (ok)\02) VB.Net\SchoolSystem\Application\obj\Debug\Application.pdb

@@ -1,0 +1,1156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Application
+</name>
+</assembly>
+<members>
+<member name="F:Application.Materias.pnlShowData">
+	<summary>
+Controle pnlShowData.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias.gwDados">
+	<summary>
+Controle gwDados.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias.pnlSearch">
+	<summary>
+Controle pnlSearch.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias.rlbTypeSearch">
+	<summary>
+Controle rlbTypeSearch.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias.label9">
+	<summary>
+Controle label9.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias.tbPesqID">
+	<summary>
+Controle tbPesqID.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias.Nome">
+	<summary>
+Controle Nome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias.tbPesqNome">
+	<summary>
+Controle tbPesqNome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias.Label10">
+	<summary>
+Controle Label10.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias.tbPesqDescricao">
+	<summary>
+Controle tbPesqDescricao.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias.btnSearch">
+	<summary>
+Controle btnSearch.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias.btnLimpaPesq">
+	<summary>
+Controle btnLimpaPesq.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="P:Application.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Application.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:Application.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:Application.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:Application.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:Application.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Application.Curso_Excluir.pnlExcluir">
+	<summary>
+Controle pnlExcluir.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Excluir.label1">
+	<summary>
+Controle label1.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Excluir.tbCodCurso">
+	<summary>
+Controle tbCodCurso.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Excluir.Nome">
+	<summary>
+Controle Nome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Excluir.tbNome">
+	<summary>
+Controle tbNome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Excluir.Label3">
+	<summary>
+Controle Label3.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Excluir.tbDescricao">
+	<summary>
+Controle tbDescricao.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Excluir.btnExcluir">
+	<summary>
+Controle btnExcluir.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.pnlExcluir">
+	<summary>
+Controle pnlExcluir.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.Label8">
+	<summary>
+Controle Label8.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.tbCodAluno">
+	<summary>
+Controle tbCodAluno.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.label1">
+	<summary>
+Controle label1.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.tbNome">
+	<summary>
+Controle tbNome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.Label2">
+	<summary>
+Controle Label2.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.tbEndereco">
+	<summary>
+Controle tbEndereco.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.Label4">
+	<summary>
+Controle Label4.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.tbCEP">
+	<summary>
+Controle tbCEP.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.Label5">
+	<summary>
+Controle Label5.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.tbTelefone">
+	<summary>
+Controle tbTelefone.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.Label6">
+	<summary>
+Controle Label6.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.tbCelular">
+	<summary>
+Controle tbCelular.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.Label7">
+	<summary>
+Controle Label7.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.tbDataNasc">
+	<summary>
+Controle tbDataNasc.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.Label3">
+	<summary>
+Controle Label3.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.tbDataCadastro">
+	<summary>
+Controle tbDataCadastro.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Excluir.btnExcluir">
+	<summary>
+Controle btnExcluir.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Add.pnlCadastro">
+	<summary>
+Controle pnlCadastro.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Add.label1">
+	<summary>
+Controle label1.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Add.tbNome">
+	<summary>
+Controle tbNome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Add.Label2">
+	<summary>
+Controle Label2.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Add.tbDescricao">
+	<summary>
+Controle tbDescricao.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Add.Label3">
+	<summary>
+Controle Label3.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Add.tbDataCadastro">
+	<summary>
+Controle tbDataCadastro.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Add.btnCadastrar">
+	<summary>
+Controle btnCadastrar.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Edit.pnlUpdate">
+	<summary>
+Controle pnlUpdate.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Edit.Label6">
+	<summary>
+Controle Label6.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Edit.tbCodCurso">
+	<summary>
+Controle tbCodCurso.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Edit.label4">
+	<summary>
+Controle label4.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Edit.tbNome">
+	<summary>
+Controle tbNome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Edit.Label5">
+	<summary>
+Controle Label5.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Edit.tbDescricao">
+	<summary>
+Controle tbDescricao.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Edit.bntAtualizar">
+	<summary>
+Controle bntAtualizar.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Master.Head1">
+	<summary>
+Controle Head1.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Master.head">
+	<summary>
+Controle head.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Master.frmMaster">
+	<summary>
+Controle frmMaster.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Master.cphContent">
+	<summary>
+Controle cphContent.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno.pnlShowData">
+	<summary>
+Controle pnlShowData.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno.gwDados">
+	<summary>
+Controle gwDados.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno.pnlSearch">
+	<summary>
+Controle pnlSearch.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno.rlbTypeSearch">
+	<summary>
+Controle rlbTypeSearch.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno.label1">
+	<summary>
+Controle label1.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno.tbPesqID">
+	<summary>
+Controle tbPesqID.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno.label9">
+	<summary>
+Controle label9.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno.tbPesqNome">
+	<summary>
+Controle tbPesqNome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno.label2">
+	<summary>
+Controle label2.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno.tbEndereco">
+	<summary>
+Controle tbEndereco.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno.btnSearch">
+	<summary>
+Controle btnSearch.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno.btnLimpaPesq">
+	<summary>
+Controle btnLimpaPesq.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Edit.pnlUpdate">
+	<summary>
+Controle pnlUpdate.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Edit.Label6">
+	<summary>
+Controle Label6.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Edit.tbCodMateria">
+	<summary>
+Controle tbCodMateria.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Edit.label4">
+	<summary>
+Controle label4.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Edit.tbNome">
+	<summary>
+Controle tbNome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Edit.Label5">
+	<summary>
+Controle Label5.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Edit.tbDescricao">
+	<summary>
+Controle tbDescricao.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Edit.bntAtualizar">
+	<summary>
+Controle bntAtualizar.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.pnlAtualizar">
+	<summary>
+Controle pnlAtualizar.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.Label8">
+	<summary>
+Controle Label8.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.tbCodAluno">
+	<summary>
+Controle tbCodAluno.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.label1">
+	<summary>
+Controle label1.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.tbNome">
+	<summary>
+Controle tbNome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.Label2">
+	<summary>
+Controle Label2.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.tbEndereco">
+	<summary>
+Controle tbEndereco.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.Label4">
+	<summary>
+Controle Label4.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.tbCEP">
+	<summary>
+Controle tbCEP.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.Label5">
+	<summary>
+Controle Label5.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.tbTelefone">
+	<summary>
+Controle tbTelefone.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.Label6">
+	<summary>
+Controle Label6.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.tbCelular">
+	<summary>
+Controle tbCelular.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.Label7">
+	<summary>
+Controle Label7.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.tbDataNasc">
+	<summary>
+Controle tbDataNasc.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.Label3">
+	<summary>
+Controle Label3.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.tbDataCadastro">
+	<summary>
+Controle tbDataCadastro.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Edit.bntAtualizar">
+	<summary>
+Controle bntAtualizar.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso.pnlShowData">
+	<summary>
+Controle pnlShowData.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso.gwDados">
+	<summary>
+Controle gwDados.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso.pnlSearch">
+	<summary>
+Controle pnlSearch.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso.rlbTypeSearch">
+	<summary>
+Controle rlbTypeSearch.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso.label9">
+	<summary>
+Controle label9.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso.tbPesqID">
+	<summary>
+Controle tbPesqID.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso.Nome">
+	<summary>
+Controle Nome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso.tbPesqNome">
+	<summary>
+Controle tbPesqNome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso.Label10">
+	<summary>
+Controle Label10.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso.tbPesqDescricao">
+	<summary>
+Controle tbPesqDescricao.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso.btnSearch">
+	<summary>
+Controle btnSearch.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso.btnLimpaPesq">
+	<summary>
+Controle btnLimpaPesq.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Excluir.pnlExcluir">
+	<summary>
+Controle pnlExcluir.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Excluir.label1">
+	<summary>
+Controle label1.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Excluir.tbCodigo">
+	<summary>
+Controle tbCodigo.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Excluir.Nome">
+	<summary>
+Controle Nome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Excluir.tbNome">
+	<summary>
+Controle tbNome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Excluir.Label3">
+	<summary>
+Controle Label3.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Excluir.tbDescricao">
+	<summary>
+Controle tbDescricao.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Materias_Excluir.btnExcluir">
+	<summary>
+Controle btnExcluir.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Add.pnlCadastro">
+	<summary>
+Controle pnlCadastro.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Add.label1">
+	<summary>
+Controle label1.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Add.tbNome">
+	<summary>
+Controle tbNome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Add.Label2">
+	<summary>
+Controle Label2.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Add.tbEndereco">
+	<summary>
+Controle tbEndereco.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Add.Label4">
+	<summary>
+Controle Label4.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Add.tbCEP">
+	<summary>
+Controle tbCEP.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Add.Label5">
+	<summary>
+Controle Label5.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Add.tbTelefone">
+	<summary>
+Controle tbTelefone.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Add.Label6">
+	<summary>
+Controle Label6.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Add.tbCelular">
+	<summary>
+Controle tbCelular.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Add.Label7">
+	<summary>
+Controle Label7.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Add.tbDataNasc">
+	<summary>
+Controle tbDataNasc.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Add.Label3">
+	<summary>
+Controle Label3.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Add.tbDataCadastro">
+	<summary>
+Controle tbDataCadastro.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Aluno_Add.btnCadastrar">
+	<summary>
+Controle btnCadastrar.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Add.pnlCadastro">
+	<summary>
+Controle pnlCadastro.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Add.label1">
+	<summary>
+Controle label1.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Add.tbNome">
+	<summary>
+Controle tbNome.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Add.Label2">
+	<summary>
+Controle Label2.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Add.tbDescricao">
+	<summary>
+Controle tbDescricao.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Add.Label3">
+	<summary>
+Controle Label3.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Add.tbDataCadastro">
+	<summary>
+Controle tbDataCadastro.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member><member name="F:Application.Curso_Add.btnCadastrar">
+	<summary>
+Controle btnCadastrar.
+</summary>
+	<remarks>
+Campo gerado automaticamente.
+Modificar a declaração do campo de movimento do arquivo de designer para o arquivo code-behind.
+</remarks>
+</member>
+</members>
+</doc>
